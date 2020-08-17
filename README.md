@@ -1,10 +1,8 @@
 # Two methods for generating real-time spectral mean images in Max/MSP/Jitter using OpenGL
 
-<figure>
-   <img src="figure.gif" alt="figure"
-   title="figure" width="640" align="center" />
-   <figcaption></figcaption>
-</figure>
+<p align="center">
+ <img src="figure.gif" width=600>
+</p>
 
 [In a recent blogpost](https://aleksandertidemann.github.io/general/2020/08/04/exploring-spectral-mean-images.html), I conducted a small experiment to investigate whether an OpenGL system that generates real-time spectral mean images (or motiongrams) in Max/MSP/Jitter should do vector mean calculations on the CPU or the GPU. 
 
