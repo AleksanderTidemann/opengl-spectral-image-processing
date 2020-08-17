@@ -1,4 +1,4 @@
-# Two system for generating real-time spectral mean images in Max/MSP/Jitter using OpenGL
+# Two methods for generating real-time spectral mean images in Max/MSP/Jitter using OpenGL
 
 <figure>
    <img src="figure.gif" alt="figure"
