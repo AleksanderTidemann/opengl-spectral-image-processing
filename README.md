@@ -1,6 +1,6 @@
-# Exploring Spectral Mean Images in Max/MSP/Jitter using OpenGL
+# Exploring spectral mean images in Max/MSP/Jitter using OpenGL
 
-<figure style="float: none">
+<figure alignt="center">
    <img src="figure.gif" alt="figure"
    title="figure" width="640" />
    <figcaption></figcaption>
