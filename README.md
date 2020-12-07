@@ -7,7 +7,7 @@ In short, If you want a stable and highly controllable system that can accommoda
 Both versions as are included.
 
 <p align="left">
- <img src="figure.gif" width=640>
+ <img src="figure.gif" width=440>
 </p>
 
 ## Dependencies
